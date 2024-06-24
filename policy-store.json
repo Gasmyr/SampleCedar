@@ -1,0 +1,10 @@
+[
+    {
+        "name": "RHCSA",
+        "id": "0eaf5a6c706789ba06d1e3e8131bf629b9ad17ff1750",
+        "description": "Gasmyr custom jar",
+        "policies": [],
+        "identity_source": [],
+        "schema": {}
+    }
+]
